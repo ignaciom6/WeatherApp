@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CitiesTableViewController.h
 //  WeatherApp
 //
 //  Created by Ignacio on 18/7/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CitiesTableViewController : UITableViewController
 
 @end
-
